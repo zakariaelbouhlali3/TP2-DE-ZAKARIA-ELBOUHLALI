@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mon emploi du temps</title>
+</head>
+
+<body>
+
+<center>
+    <img src="logo la fac.png" height="100px" width="500px">
+</center>
+
+<img src="signature .jpeg" height="50px" width="70px">
+
+<h5 align="right"><u>Année universitaire 2025-2026</u></h5>
+<h2 align="center">Emploi du temps -- IAIL-S2</h2>
+
+<table border="4">
+<tr>
+<th></th>
+<th bgcolor=FAEBD7>9h-10h30</th>
+<th bgcolor=FAEBD7>10h30-12h</th>
+<th bgcolor=FAEBD7>12h15-13h45</th>
+<th bgcolor=FAEBD7>13h45-15h15</th>
+<th bgcolor=FAEBD7>15h30-17h</th>
+<th bgcolor=FAEBD7>17h-18h30</th>
+</tr>
+
+<tr>
+<td bgcolor=00FFFF> Lundi</td>
+<td>Programmation Python 2 — <a href="message_prof.html">M. Laraqui</a></td>
+<td>Algorithme et programmation C2— <a href="message_prof.html">H. Oudani</a></td>
+<td></td>
+<td>Algorithme et programmation C2 (Td/Tp) G1 — <a href="message_prof.html">H. Oudani</a></td>
+<td>Programmation Python 2 (Td/Tp) G3 — <a href="message_prof.html">A. Elouardi</a></td>
+<td>Programmation Python 2 (Td/Tp) G2 — <a href="message_prof.html">A. Elouardi</a></td>
+</tr>
+
+<tr>
+<td bgcolor=00FFFF> Mardi</td>
+<td>Programmation Python 2 — <a href="message_prof.html">A. Elouardi</a></td>
+<td></td>
+<td>Digital Skills & Intelligence Artificielle — <a href="message_prof.html">A. Elouardi</a></td>
+<td>Digital Skills & Intelligence Artificielle — <a href="message_prof.html">A. Elouardi</a></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td bgcolor=00FFFF> Mercredi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Algorithme et programmation C2 (Td/Tp) G2— <a href="message_prof.html">H. Oudani</a></td>
+<td>Algèbre 2 — <a href="message_prof.html">I. Boutayamo</a></td>
+<td>Analyse 2 — <a href="message_prof.html">A. Hadri</a></td>
+</tr>
+
+<tr>
+<td bgcolor=00FFFF> Jeudi</td>
+<td>Traitement du Signal — <a href="message_prof.html">H. Azzahhafi</a></td>
+<td>Traitement du Signal — <a href="message_prof.html">H. Azzahhafi</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor=00FFFF> Vendredi</td>
+<td>Algèbre 2 — <a href="message_prof.html">I. Boutayamo</a></td>
+<td>Analyse 2 — <a href="message_prof.html">A. Hadri</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor=00FFFF> Samedi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Programmation Web 1 (Td/Tp) G2 — <a href="message_prof.html">A. Hakem</a></td>
+<td>Programmation Web 1 cours — <a href="message_prof.html">K. Omari</a></td>
+<td>Programmation Web 1 (Td/Tp) G1— <a href="message_prof.html">K. Omari</a></td>
+</tr>
+</table>
+</body>
+</html>
